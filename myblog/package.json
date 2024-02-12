@@ -1,0 +1,17 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "dinamik web service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "calisma(full-stack)"
+  },
+  "author": "semih metin zengin",
+  "license": "ISC"
+}
